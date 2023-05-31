@@ -1,7 +1,5 @@
 ﻿'use strict';
 
-import { utils } from "./Utils.js"
-
 const mainContent = document.querySelector(".site-main-content-container");
 
 const inputSearchName = document.querySelector(".search-name");
