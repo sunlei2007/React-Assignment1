@@ -64,8 +64,8 @@ searchCity.addEventListener('input', function () {
     }
 });
 
-const url = "/React-Assignment1/assets/data/movies-1.json";
-const urlCity = "/React-Assignment1/assets/data/citys.json";
+const url = "/assets/data/movies-1.json";
+const urlCity = "/assets/data/citys.json";
 const options = {
     method: "GET",
     mode: "cors"
