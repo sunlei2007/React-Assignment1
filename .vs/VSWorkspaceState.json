@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\script"
   ],
-  "SelectedNode": "\\C:\\Users\\sun\\Source\\Repos\\React-Assignment1",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
